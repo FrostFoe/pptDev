@@ -2,69 +2,69 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    title: 'Creative Studio',
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    title: 'CodeVerse',
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    title: 'Design Hub',
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    title: 'Innovation Island',
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    title: 'Devtopia',
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'আপনার প্রয়োজন অনুযায়ী একটি ডিজাইন বা ওয়েব প্রজেক্ট খুঁজুন',
+  'সঠিক টুলস এবং স্ট্রাটেজি ব্যবহার করে দক্ষভাবে কাজ শুরু করুন',
+  'সময় নষ্ট না করে প্রফেশনাল স্কিল বাড়ান এবং ক্রিয়েটিভিটি উপভোগ করুন',
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'একটি নতুন অভিজ্ঞতা',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'নতুন আপডেটে আরও উন্নত ডিজাইন ও ডেভেলপমেন্ট ফিচার যোগ করা হয়েছে, যা আপনাকে আরও দক্ষ করে তুলবে',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'আরও ইন্টারেক্টিভ',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'নতুন আপডেটে ব্যবহারকারীর অভিজ্ঞতা আরও উন্নত করা হয়েছে, যা ডিজাইন এবং কোডিংকে আরও সহজ ও কার্যকর করবে',
   },
 ];
 
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'স্লাইড ডিজাইনের সেরা কৌশল: প্রেজেন্টেশন হবে প্রো লেভেলের',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'একটি আকর্ষণীয় প্রেজেন্টেশনের জন্য রঙ, ফন্ট এবং লেআউটের সঠিক ব্যবহার অত্যন্ত গুরুত্বপূর্ণ। এই গাইডে থাকছে সহজ কিন্তু কার্যকর টিপস।',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: 'ওয়েব ডেভেলপমেন্ট শেখার ৭টি সহজ উপায়',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        'এই প্রবন্ধে থাকছে ওয়েব ডেভেলপমেন্ট শেখার সহজ এবং কার্যকর কৌশল, যা নতুনদের জন্য বিশেষভাবে উপযোগী।',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'একটি প্ল্যাটফর্মেই শিখুন প্রফেশনাল ওয়েব ডিজাইন',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'ওয়েব ডিজাইনের আধুনিক কৌশল, ইউআই/ইউএক্স উন্নত করার পদ্ধতি এবং ব্যবহারকারীদের জন্য আকর্ষণীয় ওয়েবসাইট তৈরির টিপস।',
   },
 ];
 
